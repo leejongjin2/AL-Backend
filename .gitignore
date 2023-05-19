@@ -6,7 +6,7 @@
 
 # Vscode IDE
 *.vscode/*
-
+venv
 # Unit test reports
 TEST*.xml
 
